@@ -1,7 +1,7 @@
 @media (min-width: 720px) and (max-width: 1190px) {
   .wrapper {
     background-image: url(../img/bg1.png);
-    background-color: rgb(220, 234, 255);
+    background-color: #f9f8fb;
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 1200px;
